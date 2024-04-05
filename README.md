@@ -7,8 +7,8 @@
 
 | ICPC |
 | --- |
-| [2021-2022 ICPC, Moscow Subregional]() |
-| [2023-2024 ICPC Southwestern European Regional Contest]() |
+| [2021-2022 ICPC, Moscow Subregional](https://codeforces.com/gym/104848) |
+| [2023-2024 ICPC Southwestern European Regional Contest](https://codeforces.com/gym/104945) |
 
 | UCUP |
 | --- |
