@@ -1,9 +1,11 @@
 # TravelByPlan-xCPC
+
 ❌打铁
 
 | CCPC |
 | --- |
 | [The 2nd Universal Cup Stage 25 Shenzhen](https://qoj.ac/contest/1540) |
+| [2023 Jiangsu Collegiate Programming Contest, 2023 National Invitational of CCPC (Hunan), The 13th Xiangtan Collegiate Programming Contest](https://codeforces.com/gym/104396) |
 
 | ICPC |
 | --- |
