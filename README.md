@@ -15,3 +15,4 @@
 | UCUP |
 | --- |
 | [The 2nd Universal Cup. Stage 4 Taipei](https://qoj.ac/contest/1382) |
+| [The 2023 ICPC Asia Hangzhou Regional Contest (The 2nd Universal Cup. Stage 22: Hangzhou)](https://codeforces.com/gym/104976) |
