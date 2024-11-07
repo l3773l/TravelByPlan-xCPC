@@ -21,6 +21,7 @@
 | [2021-2022 ICPC, Moscow Subregional](https://codeforces.com/gym/104848) |
 | [2023-2024 ICPC Southwestern European Regional Contest](https://codeforces.com/gym/104945) |
 | [The 2024 International Collegiate Programming Contest in Hubei Province, China](https://codeforces.com/gym/105139) |
+| [The 2023 ICPC Asia Nanjing Regional Contest (The 2nd Universal Cup. Stage 11 Nanjing)](https://codeforces.com/gym/104821) |
 
 ----
 
